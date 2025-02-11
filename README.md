@@ -27,7 +27,7 @@ Dataset Handling: SQL commands
 bash            
 Copy                          
 Edit                        
-git clone https://github.com/yourusername/sports-community-system.git                       
+git clone gh repo clone Abdulrahman-sayedd/Sports-Community-Management-System                                                    
 cd sports-community-system
 
 2️⃣ Open the project in Visual Studio                       
